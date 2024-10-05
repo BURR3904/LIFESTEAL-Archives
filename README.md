@@ -6,7 +6,7 @@ Welcome to the Lifesteal Archive, this is where all of the available Lifesteal w
 # Download Options
 ![Untitle1221d](https://github.com/user-attachments/assets/d0147cb3-ae97-45e3-bd2a-0f14679f5e06)
 
-You will be able to download the Lifesteal files from Mediafire or Github
+You will be able to download the Lifesteal files from Mediafire, Github, or Glitch
 |            Options            |                            Download Links                             |
 | :------------------------: | :------------------------------------------------------------: |
 | **Default (Mediafire)** / S8 |<a href="https://unavailablels.glitch.me/">Download Season 8</a>|
